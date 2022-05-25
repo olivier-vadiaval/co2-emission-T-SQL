@@ -3,8 +3,8 @@
 Copyright &copy; 2022 Olivier Vadiavaloo  
   
 ___
-### Dashboard (using Power BI)
-[CO2_Emissions_Dashboard.pbix](https://github.com/olivier-vadiaval/co2-emission-T-SQL/blob/main/CO2_Emissions_Dashboard.pbix)  
+### Dashboard
+[CO2_Emissions_Dashboard.pbix](https://github.com/olivier-vadiaval/co2-emission-T-SQL/blob/main/CO2_Emissions_Dashboard.pbix) (created using Power BI)  
   
 ![image](https://user-images.githubusercontent.com/59672031/170189557-a34fc207-8531-4814-962a-0bf0f212c030.png)
   
